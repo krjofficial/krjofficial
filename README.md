@@ -1,5 +1,5 @@
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krjofficial&show=icons=true&theme=midnight-purple)
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krjofficial&show_icons=true&theme=midnight-purple)
 
 
 <!--
