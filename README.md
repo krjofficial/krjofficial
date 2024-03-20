@@ -1,7 +1,7 @@
 
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krjofficial&show_icons=true&theme=midnight-purple)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krjofficial&theme=midnight-purple)](https://git.io/streak-stats)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/krjofficial/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=krjofficial)](https://github.com/krjofficial/github-readme-stats)
 
 
 <!--
