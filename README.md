@@ -1,7 +1,4 @@
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krjofficial&show_icons=true&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krjofficial&theme=github_dark)](https://git.io/streak-stats)
-
 
 
 <!--
