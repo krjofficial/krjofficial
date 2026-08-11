@@ -1,15 +1,17 @@
 <h1 align="center">Hi, I'm Krish Jain 👋</h1>
 <p align="center">
-  Aspiring Software Engineer | Final Year Student | Web Dev Enthusiast
+  Integration Engineer | Software Engineer | Problem Solver
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year B.E. student at Thakur College of Engineering and Technology, Mumbai  
-- 🛠️ Currently working with **React**, **Node.js**, and **Spring Boot**
-- 📈 Passionate about building scalable products and solving real-world problems
+- 💼 Integration Engineer at **HyperVerge**, working with enterprise BFSI clients
+- 🔧 Building and deploying production **KYC & onboarding workflows** serving 4 Lakh+ users monthly
+- 🧩 Work across **APIs, webhooks, SDK integrations, workflow design, and technical solutioning**
+- 🐍 Currently exploring **Python, FastAPI, and LLM-based applications**
+- 📈 I enjoy taking messy real-world problems and engineering simple, practical solutions around them
 - 🏆 Grand Finalist – **Smart India Hackathon (SIH) 2024**
 - 📝 Best Paper Award – **MULTICON-W 2025**, TCET Mumbai
 
@@ -18,51 +20,58 @@
 ### 🧰 Tech Stack
 
 **Languages:**  
-`JavaScript` `C++` `C` `Java` 
+`Python` `JavaScript` `C++`
 
-**Backend & DB:**  
-`Node.js` `Express` `MongoDB` `MySQL` `Spring Boot` 
+**Backend & APIs:**  
+`Node.js` `FastAPI` `REST APIs` `Webhooks`
 
 **Frontend:**  
-`React` `React Native` `HTML` `CSS` `Tailwind`  
+`React` `React Native` `HTML` `CSS`
+
+**Databases & Infrastructure:**  
+`MongoDB` `MySQL` `Redis`
 
 **Tools & Others:**  
-`Git` `Postman` `Figma` `VS Code`  
+`Git` `Postman` `Jira` `Kibana` `Figma` `Metabase`
 
 ---
 
 ### 📌 Projects
 
-- 🔹 [**MERN Ecommerce Website**](https://github.com/krjofficial/mern-ecomm)  
-  Secure ecommerce site with admin panel, JWT auth, session handling, and Cloudinary integration.
+- 🔹 [**CallSense**](https://github.com/krjofficial/call-sense)  
+  Lightweight call-analysis tool using **Python, FastAPI, Whisper, and LLMs** to extract sentiment, topics, compliance flags, and escalation risk from BFSI conversations.
 
-- 🔹 [**Todo List Web App**](https://github.com/krjofficial/springboot-todo)  
-  Full-stack Spring Boot + JS todo app with REST APIs and H2 database.
+- 🔹 [**MERN Ecommerce Website**](https://github.com/krjofficial/mern-ecomm)  
+  Secure ecommerce application with authentication, admin product management, cart and session handling, **JWT, Redis, Cloudinary**, and protected APIs.
 
 - 🔹 [**SyncFest**](https://github.com/krjofficial/syncfest)  
-  Event management app with full CRUD features using Node.js and EJS.
-
-- 🔹 [**Micro Blog**](https://github.com/krjofficial/micro-blog)  
-  Minimal blog platform using **Node.js**, **Express**, and **EJS**, supporting full CRUD operations and server-side rendering.
+  Event management application with CRUD operations, event registration, RSVP functionality, and attendee management using **Node.js, MongoDB, and EJS**.
 
 ---
 
-### 📌 Roles & Involvement
+### 💼 Experience
 
-- 👨‍💼 **Team Lead Intern** @ Grootz  
-  Led a 5-member team to build an NGO website using HTML, CSS, JS.
+- 🧩 **Integration Engineer @ HyperVerge**  
+  Working with enterprise BFSI clients on KYC, onboarding, video-verification and identity workflows. Involved in API/webhook integrations, SDK debugging, workflow configuration, client problem-solving, and production deployments.
 
-- 🧩 **Event & Logistics Lead** @ TCET Open Source & GDSC TCET
-Led planning and execution of 10+ tech events, overseeing logistics, hosting, and coordination for 200+ participants.
+- 👨‍💼 **Team Lead Intern @ Grootz**  
+  Led a 5-member team to design and develop an NGO website while coordinating tasks and project delivery.
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Grand Finalist – Smart India Hackathon 2024**
+- 📝 **Best Paper Award – MULTICON-W 2025, TCET Mumbai**
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krjofficial/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krjofficial/)
+
 📬 krishjain.official@gmail.com • 📍 Mumbai, India
 
 ---
 
 <p align="center">Thanks for visiting my profile!</p>
-
